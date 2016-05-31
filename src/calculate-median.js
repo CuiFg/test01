@@ -31,6 +31,6 @@ function calculate_median(arr)
 		}
 	return num;	
 }
-calculateMiddle(arr);
+calculate_median(arr);
 
 module.exports = calculate_median;
