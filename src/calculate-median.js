@@ -1,4 +1,5 @@
 
+var arr=[];
 function calculate_median(arr)
 {
 	function  NumAscSort(m,n) //定义小到大排序的方法函数
